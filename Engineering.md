@@ -9,7 +9,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 
 #### I am known for my technical knowledge
 - I have community engagement. This may include but is not limited to speaking at conferences and user groups, writing books or blog posts, answering Stack Overflow or forum questions or being an MVP.
-- I contribute to open source projects. 
+- I contribute to open SOURCE projects. 
 - I am a greatly desired team member for Readify projects.
 
 #### I am adaptable
