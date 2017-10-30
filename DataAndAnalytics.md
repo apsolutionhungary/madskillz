@@ -5,7 +5,7 @@
 
 #### I produce high quality data and analytics solutions.
 - THIS LINE CHANGED
-- I am learning to develop solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
+- SECOND CHANGE develop solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
 - I am learning how to implement valuable quality assurance practices.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the various aspects of a solution.
