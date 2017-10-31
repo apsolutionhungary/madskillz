@@ -3,7 +3,7 @@
 ## Analyst
 > THIS LINE CHANGED I am a valuable, enthusiastic and net-positive member of a Readify team.
 
-#### I produce high quality data and analytics solutions.
+#### I CHANGE CODE high quality data and analytics solutions.
 - THIS LINE CHANGED
 - SECOND CHANGE develop solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
 - THIRD CHANGE how to implement valuable quality assurance practices.
