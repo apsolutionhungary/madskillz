@@ -7,7 +7,7 @@
 - THIS LINE CHANGED
 - SECOND CHANGE develop solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
 - THIRD CHANGE how to implement valuable quality assurance practices.
-- I am becoming proficient with my tools and the core building blocks used by our team.
+- WITH ANOTHER USER proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the various aspects of a solution.
 - I am learning how to stand up a build and delivery pipeline.
 - I am employing the right techniques to develop a solution that meets my client's needs.
