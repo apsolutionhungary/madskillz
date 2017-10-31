@@ -1,7 +1,7 @@
 # Development Roles
 
 ## Graduate Developer
-> I am a committed student of Readifarian values.
+> I CHANGED a committed student of Readifarian values.
 
 #### I write good quality code that can be shipped to production.
 - I am learning how to use a build and delivery pipeline.
