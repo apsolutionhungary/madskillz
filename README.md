@@ -1,6 +1,6 @@
 # Readify Mad Skillz
 
-This repo describes each of the technical roles at Readify.
+TcHANGEEEEhis repo describes each of the technical roles at Readify.
 
 It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way.
 
