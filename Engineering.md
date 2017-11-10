@@ -5,7 +5,7 @@ These roles start after Senior Developer, as a more technically-focused career p
 Being technical does not eliminate the need to utilise soft skills, as you will still be dealing with people and need to be able to explain concepts across all levels of a business as well as at various events.  
 
 ## Senior Engineer
-> I am a consultant, an architect, and a communicator and a problem solver. I am the go-to person in the general technology area. I represent the technical brilliance that Readify brings to the market.
+> CHANGE I am a consultant, an architect, and a communicator and a problem solver. I am the go-to person in the general technology area. I represent the technical brilliance that Readify brings to the market.
 
 #### I am known for my technical knowledge
 - I have community engagement. This may include but is not limited to speaking at conferences and user groups, writing books or blog posts, answering Stack Overflow or forum questions or being an MVP.
