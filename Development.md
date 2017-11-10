@@ -1,4 +1,4 @@
-# Development Roles
+﻿# Development Roles
 
 ## Graduate Developer
 > I CHANGED a committed student of Readifarian values.
@@ -11,7 +11,7 @@
 - I am learning to implement design patterns that are widely used.
 - I am learning about the infrastructure my code runs on.
 
-#### I show great enthusiasm and initiatives.
+#### CHANGED I show great enthusiasm and initiatives.
 - I understand the importance of PD and recognise the role it plays in my progress.
 - I am learning the concepts of agile development and try to apply them within the project I am allocated to.
 - I am aware of agile practices, and am actively learning how to apply them day to day
