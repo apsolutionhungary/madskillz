@@ -12,7 +12,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - I contribute to open SOURCE projects. 
 - I am a greatly desired team member for Readify projects.
 
-#### I am adaptable
+#### CHANGE I am adaptable
 - I realise that there are many tools that can solve a given problem and each have their own pros and cons.
 - I can adapt to a given situation and can learn and implement new technologies with very short notice.
 
