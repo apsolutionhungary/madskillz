@@ -1,6 +1,6 @@
 # Data and Analytics Roles
 
-## Analyst
+## Analysst
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 #### I produce high quality data and analytics solutions.
