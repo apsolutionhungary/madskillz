@@ -1,4 +1,4 @@
-﻿# Development Roles
+# Development Roles
 
 ## Graduate Developer
 > I am a committed student of Readifarian values.
@@ -100,7 +100,7 @@
 
 
 ----------
-## 🔀 Other Pathways
+## ?? Other Pathways
 
 At this point, some people may choose to take the [engineering branch](./Engineering.md).
 
