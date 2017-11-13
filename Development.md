@@ -1,7 +1,7 @@
 ﻿# Development Roles
 
 ## Graduate Developer
-> I CHANGED a committed student of Readifarian values.
+> I am a committed student of Readifarian values.
 
 #### I write good quality code that can be shipped to production.
 - I am learning how to use a build and delivery pipeline.
@@ -11,7 +11,7 @@
 - I am learning to implement design patterns that are widely used.
 - I am learning about the infrastructure my code runs on.
 
-#### CHANGED I show great enthusiasm and initiatives.
+#### I show great enthusiasm and initiatives.
 - I understand the importance of PD and recognise the role it plays in my progress.
 - I am learning the concepts of agile development and try to apply them within the project I am allocated to.
 - I am aware of agile practices, and am actively learning how to apply them day to day
