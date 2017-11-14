@@ -11,7 +11,7 @@ In the interests of keeping things DRY, these roles' content are linked rather t
 ## [Senior Developer](./Development.md#senior-developer)
 
 ## Technical Lead
-> CHANGE I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
+> CHANGE2 I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
 
 #### I focus on delivering value to our customers
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
