@@ -1,6 +1,6 @@
 # Managed Services Roles
 
-CHANGE The managed services career path starts out with the same roles as the [Development](./Development.md) path.
+The managed services career path starts out with the same roles as the [Development](./Development.md) path.
 
 In the interests of keeping things DRY, these roles' content are linked rather than copy-pasted.
 
