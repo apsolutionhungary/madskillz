@@ -4,7 +4,7 @@
 > I am a committed student of Readifarian values.
 
 #### I write good quality code that can be shipped to production.
-- I am learning how to use a build and delivery pipeline13.
+- I am learning how to use a build and delivery pipeline14.
 - I am learning how to convert client requirements into deliverable units of work.
 - I am competent with the tools and core building blocks used by our team.
 - I understand the value add of different types of testing such as automated and manual testing.
