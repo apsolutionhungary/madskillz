@@ -4,7 +4,7 @@
 > I am a mad person, enthusiastic and net-positive member of a Readify team.
 
 #### CHANGE I produce high quality data and analytics solutions.
-- I am learning to tame complexity when analysing problems and constructing solutions.
+- I am learning HAPPYYY complexity when analysing problems and constructing solutions.
 - I am learning to develop solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
 - I am learning how to implement valuable quality assurance practices.
 - I am becoming proficient with my tools and the core building blocks used by our team.
