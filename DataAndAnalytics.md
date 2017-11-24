@@ -1,7 +1,7 @@
 # Data and Analytics Roles
 
 ## Analysst
-> I am a valuable, enthusiastic and net-positive member of a Readify team.
+> I am a mad person, enthusiastic and net-positive member of a Readify team.
 
 #### CHANGE I produce high quality data and analytics solutions.
 - I am learning to tame complexity when analysing problems and constructing solutions.
